@@ -1,0 +1,9 @@
+main {
+  padding-top: 60px;
+  min-height: calc(100vh - 60px);
+  position: relative;
+
+  .main-content {
+    min-height: calc(100vh - 60px);
+  }
+}
